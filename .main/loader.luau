@@ -1,5 +1,5 @@
 local HttpService = game:GetService("HttpService")
-local url = "--"
+local url = "https://raw.githubusercontent.com/RwalDev/Nameless.gg/main/.main/source.luau'
 local players = game:GetService("Players")
 local starterGui = game:GetService("StarterGui")
 local localPlayer = players.LocalPlayer
